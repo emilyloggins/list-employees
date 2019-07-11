@@ -1,0 +1,11 @@
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/bin/Debug/netcoreapp2.2/list-employees.deps.json
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/bin/Debug/netcoreapp2.2/list-employees.runtimeconfig.json
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/bin/Debug/netcoreapp2.2/list-employees.runtimeconfig.dev.json
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/bin/Debug/netcoreapp2.2/list-employees.dll
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/bin/Debug/netcoreapp2.2/list-employees.pdb
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/obj/Debug/netcoreapp2.2/list-employees.csprojAssemblyReference.cache
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/obj/Debug/netcoreapp2.2/list-employees.csproj.CoreCompileInputs.cache
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/obj/Debug/netcoreapp2.2/list-employees.AssemblyInfoInputs.cache
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/obj/Debug/netcoreapp2.2/list-employees.AssemblyInfo.cs
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/obj/Debug/netcoreapp2.2/list-employees.dll
+/Users/emilyloggins/workspace/backend-1/exercises/list-employees/obj/Debug/netcoreapp2.2/list-employees.pdb
